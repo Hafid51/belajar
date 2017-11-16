@@ -6,8 +6,8 @@
 
 	$koneksi = mysqli_connect($host, $user, $password, $dbname);
 
-	if ($koneksi) {
+	/* if ($koneksi) {
 		echo "sukses";
 	}else{
 		echo "Koneksi Gagal";
-	}
+	} */
